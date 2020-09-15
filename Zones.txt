@@ -4,4 +4,8 @@ GTLDs
 
 
 Run the zones in the application
+
 verify the zones in domain solr
+
+Run the full load
+
