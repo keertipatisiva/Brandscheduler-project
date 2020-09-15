@@ -4,3 +4,5 @@ GTLDs
 
 
 Run the zones in the application
+
+Run the full load
