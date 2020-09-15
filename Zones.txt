@@ -2,3 +2,5 @@ create zones
 TLDS
 GTLDs
 CCTLDs
+
+Run the zones in the application
